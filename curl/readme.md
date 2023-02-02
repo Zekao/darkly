@@ -1,4 +1,3 @@
-<!-- curl pour envoyer un fichier -->
 # flag10 | image upload
 
 We can see that we have the possibility to upload an image. Let's try to upload a php file.

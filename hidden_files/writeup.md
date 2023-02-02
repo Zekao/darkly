@@ -1,4 +1,4 @@
-# flag 3 | je sais pas comment l'appeler
+# flag 3 | hidden files
 
 For this flag, we will use nikto to scan all accessible route. We find /admin/ page and /whatever/ directory
 
